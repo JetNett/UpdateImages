@@ -1,0 +1,7 @@
+E:\Repos\UpdateCountsAndImages\src\UpdateCountsAndImages\bin\Debug\UpdateCountsAndImages.exe.config
+E:\Repos\UpdateCountsAndImages\bin\UpdateCountsAndImages.exe.config
+E:\Repos\UpdateCountsAndImages\bin\UpdateCountsAndImages.exe
+E:\Repos\UpdateCountsAndImages\bin\UpdateCountsAndImages.pdb
+E:\Repos\UpdateCountsAndImages\src\UpdateCountsAndImages\obj\Debug\UpdateCountsAndImages.csprojResolveAssemblyReference.cache
+E:\Repos\UpdateCountsAndImages\src\UpdateCountsAndImages\obj\Debug\UpdateCountsAndImages.exe
+E:\Repos\UpdateCountsAndImages\src\UpdateCountsAndImages\obj\Debug\UpdateCountsAndImages.pdb
